@@ -2,14 +2,19 @@ package ml.induction
 
 class Place {
 
-    static constraints = {
-    }
-
     String name
     String placeId
     Float rating
-    Map types
-    String vicinity
+    ArrayList<String> types
     String address
 
+    static mapWith = "mongo"
+
+    static constraints = {
+    }
+
+    static mapping = {
+        database "Induction"
+        collection "places"
+    }
 }
