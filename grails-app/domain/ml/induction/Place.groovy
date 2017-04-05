@@ -6,9 +6,10 @@ class Place {
     }
 
     String name
-    String place_id
+    String placeId
     Float rating
     Map types
     String vicinity
+    String address
 
 }
