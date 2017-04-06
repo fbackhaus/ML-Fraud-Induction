@@ -10,6 +10,8 @@ class Place {
 
     static mapWith = "mongo"
 
+    static belongsTo = [address: Address]
+
     static constraints = {
     }
 
