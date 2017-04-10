@@ -9,9 +9,6 @@ class RedisService {
 
     def jedis
 
-    def serviceMethod() {
-
-    }
 
     def getApiResponse(coordenadas, radio, tipos) {
         jedis = new Jedis("localhost")

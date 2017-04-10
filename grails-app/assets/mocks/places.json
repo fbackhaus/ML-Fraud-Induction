@@ -1,0 +1,741 @@
+{
+  "html_attributions" : [
+    "Fichas de empresa proporcionadas por \u003ca href=\"http://www.paginasamarillas.com.ar\"\u003ePaginasAmarillas.com.ar\u003c/a\u003e"
+  ],
+  "next_page_token" : "CpQCAQEAADeaJ95mZk8iQk5GS8oW9TN5u7y68rk9w4W_yXdl1YcmyKEhPhaAQCMk4Vnmg-UktTxzPaTTJP0Ss-5YQ7k4-wtfov73ziT9L_hpIs7ZFtVl4Z2xF1JB4FJGMZSXUy0NoQvsVj5Pc00b2vHQX2KPpgGpwU6UK9Z_9F_HMoQRjBlcLwBfDN3yAfhRtQaAeAQiXEBaepYusjy5_cxoJc6cFlgCjBjNIAyr4S7yf-x_3tI5ULU0PC-TiRqAHUejo-joWzNtwFjboYgJxGSGfnzuNwV0JjTUrs5Uz9av_a8txjjYsAfTLAtCCHdzZcbtvr-4sf_WHA11SV6PDG_bpyCR7Qr0pmtZ6mD6l6VpHPF0no5yEhCgPzVKsCEwksDmxdT6VnCaGhRi_DQQtqoPBpg6ImV9fqdJVwky2Q",
+  "results" : [
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.38953699999999,
+          "lng" : -64.27457799999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.38818801970849,
+            "lng" : -64.2732290197085
+          },
+          "southwest" : {
+            "lat" : -31.39088598029149,
+            "lng" : -64.2759269802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "b17a219f9072b4d9f0dd3515b73ddaa0ab4f3a2b",
+      "name" : "Ligur 1279",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1280,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111870273105739730410/photos\"\u003ePablo Posadas\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAACtnQbSAPSVyCE6-gNb9cok2Wv10Uo_TqInFjXcr97RWP-_IkoFgdSQqjOdYcYWT20IKzaoiVLmwRMOWBD2iyzRTFZpvV11koVAGcg3IX9hh9pU-b330kLQmLtF2wLThGQoFsgGAOIvm-0pLRfH_n6nFXJICxV2MuKIZvjdPsL4HEhBycGKps009bzbU89kKnIz9GhTe07pcHzibKssJicmZRwgUm5qECw",
+          "width" : 720
+        }
+      ],
+      "place_id" : "ChIJeYGphh2fMpQRCQAcs0Z93a4",
+      "rating" : 4.1,
+      "reference" : "CmRSAAAAwv_M86FfKCqpJMvVp7Z0d1B7cVbyFPJ-Hh0Zu_Yw0qgVc3a_P95vv7Jlfq5r1XzI9bKpLuKQtsKGIYNMapuZ0WBuf2h4y43YlbqnkoX8_cKRb1WJQiGd2a6DRjYbH--oEhBF-5eLkMWzg7Pr2ULCIZV6GhSCLBmRjOnlvczUEEr5AWu58qygAw",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "Cardenal Cagliero 109, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.389328,
+          "lng" : -64.275031
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3879790197085,
+            "lng" : -64.2736820197085
+          },
+          "southwest" : {
+            "lat" : -31.3906769802915,
+            "lng" : -64.27637998029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "61a87e13e8e5c82c5258afb3aeb174c91475cff0",
+      "name" : "Lomitos 2x1",
+      "photos" : [
+        {
+          "height" : 4128,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114346867779444932743/photos\"\u003eCami Pereyra\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAKqNxk5aNdtucDsIJKfB3t1ZGk4tyg-2r6ygLF6S4rqkKi8dU36LDXkzSruJ4XvrFB3orI7HcxhztiCg1NdMpZx8kiTnFACbeeoMIGSsVSG3D7dWn8wnLqilNIchEPuMqiD9eIyhtNWbogmJQpK4we9qqYRwZaFXi8TEkNWCoR_CEhAkAW5xdNBzl7D3BUuoZay5GhTNFAjOCtu4AROyKYwvtJMIUagOug",
+          "width" : 3096
+        }
+      ],
+      "place_id" : "ChIJZxf4fx2fMpQRU75cmHeC7Vo",
+      "rating" : 3.6,
+      "reference" : "CmRRAAAAwlr57ociFdpDkqSIwI2kBtU9jKGIe_IgnvfcnnOTrbN0RIgMgpVKkt52MiqdioZhpZ6CMz7Kt-1BMaEsnSE2LEt3h3EgVUCJmljX1IM101lyubIg36Vy74GDnqZf6JuqEhCCboDxXyUM76FVXedV4KO3GhTEZgWdYwIHz1VqpSGHUicOtOhbtg",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Esteban Pagliere 7004 Local 4, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3903161,
+          "lng" : -64.273771
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3889671197085,
+            "lng" : -64.27242201970849
+          },
+          "southwest" : {
+            "lat" : -31.3916650802915,
+            "lng" : -64.27511998029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "7bb92a6edd256fe4638d668db0af76912b456632",
+      "name" : "Mandinga",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1536,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106890640428718966421/photos\"\u003eAny Mart\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAADccgnuGgyS1PKYSrMj2YjJAuzQwfxhXw5UX3rmCBE1d1wIZ3sRYf9oo1k7rbE2P0cx5U0yUeu_qVvozx2sSY02tdkqxKTT597a6EZ725WeFD528U4Xrz4NLZALrTwNfcibnkuESVd7DASUIX3plmkO5lPa35QCvYuk_eAZ-3O2BEhC5RDGoSuvDqzEddL57PkpOGhRkrHUBKRO-f_92vPDI2AJ_eSVdgw",
+          "width" : 2560
+        }
+      ],
+      "place_id" : "ChIJPRSFlR2fMpQRmCqjjdAa0hc",
+      "rating" : 4.6,
+      "reference" : "CmRRAAAA_3aAk8NBbaIm0uqfVGGCsocQEEziUmIHGoyKpq0qsidgbMn7h4Iw-sPTgYbp4aIvEpstaPySFb3NraDzBffbmPfNT01WO0j8QZZIUmQeErpL0CQtw6_C8DJhFDL8CDr7EhDHsbVaPPyqttnbafe2AbxrGhSRmLGHiJ7Y6YVFRNbYLRnpmbjfnQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "Francisco Sebastiani 6862, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3904273,
+          "lng" : -64.27370690000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3890783197085,
+            "lng" : -64.2723579197085
+          },
+          "southwest" : {
+            "lat" : -31.3917762802915,
+            "lng" : -64.2750558802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7d6d76e815076c1ed99815a0d3457a9c7021ee44",
+      "name" : "Grido Helado",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 5344,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111574143096644677130/photos\"\u003eJavier Leonardi\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAG6mJlzJZFHdBNJFTVUo5KxNz_E2GRI3oYdP2vjOh-BOPv5GlYP8Dg8FsDN3maWjCHuwm1sXtEUvCFFdqnVvUYKUrR59o4tn6pVDBLWE9fmfG2iuWGx3ntsBXXgla0xCJNzMJIPWp-FQ2O2R-BxcUrYFcoASOaUlxFW4Ne0a9eSlEhDDnahltZqh8V7u3SZNQUwRGhQIXWgMlmsg-_GB5Hzfe76dyu1klg",
+          "width" : 3006
+        }
+      ],
+      "place_id" : "ChIJlXO2vx2fMpQRBBuBGpugrvY",
+      "rating" : 3.9,
+      "reference" : "CmRSAAAA8sJpApDNO0F89Bkk0gqUsBo2rS7zUQmPRrBjfKh1r-5uuEwUilPWciczu86JxKXuFkRdYkb74Haauyj_BTC7pV-w2caQDWMslTg1wDYxVSgEC7dZD-3ZuJZAo9AMMoAJEhBU666GuSqr1V9pGgHM3ZP6GhSS2wvit91iveBxGwD2BMND5DbcPQ",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "Fransisco Sebastiani 6962, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.389399,
+          "lng" : -64.274799
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3880500197085,
+            "lng" : -64.27345001970849
+          },
+          "southwest" : {
+            "lat" : -31.3907479802915,
+            "lng" : -64.27614798029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "7f3e9a2593d21b5e76378e57d7b0f8ed8b8e424b",
+      "name" : "La Jacinta",
+      "place_id" : "ChIJuzv9gB2fMpQRESvmYT63oAY",
+      "rating" : 3.3,
+      "reference" : "CmRRAAAAl8_NhpqtZY3ZqRnxqMwW-3POgkplm-Ld808izvFbciHrz471oEABCU8fzMaU-WnZiJMFwwMw-kTtpQdw45a6RNCWlOqoOvm7Bu26uOCLyQPmqPuuzciElMaNRdJSCasQEhC1DY_oTjHZUkQZo818CFdRGhSfU3pu6AzF-K23tqIdjigFOPLj6w",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "Juan Cagliero, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3893833,
+          "lng" : -64.27487889999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3880343197085,
+            "lng" : -64.27352991970848
+          },
+          "southwest" : {
+            "lat" : -31.39073228029149,
+            "lng" : -64.2762278802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e3e4db7d9e0b8b50458d5d5e9c39f4aa4dcc44d7",
+      "name" : "Maxikiosko La isla",
+      "opening_hours" : {
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2322,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115629075909082420606/photos\"\u003eSamsung Galaxi Cba\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAFl_ZmdOE7-h-qOsUzMbTYSte4vHXyAHSWTINnnbMVQ5YR99fApTes8FUbo3uJR4pk2nzJCTs0xKiqI7sjbTQcpvuoSHsxKl7XAwdRkJ_N7cug1Bm5ZRBe_xaQuUzP3a4EHSMZZfBk5odUWxUDN6syqRu07D_2UCC--bXpXi20hxEhA_3lRTUSDI_fAXrbXToXEPGhTzIIKiLD-WJpTmk6cJaWtNERNiSw",
+          "width" : 4128
+        }
+      ],
+      "place_id" : "ChIJf3pQgB2fMpQRFEYbrIvVIOk",
+      "rating" : 5,
+      "reference" : "CmRSAAAAAW7aNM_gl440-QpvSe4Mu9Dq79xBul6BZddxxLeCr5_e0JuWejAiVL7MrSA_8bLszZ1DMfUTpqwXMt4cHCeeWLZlwJqMP56MBZo3R57llSJjuIbhhs9OjNlA4UKQ5HW_EhDP4WQ9yA5TPxm75W-J55voGhTrGzgsYyXdiZg21DgGdZzt6z0udw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "convenience_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Esteban Pagliere 7004 Local 3, Don Busco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3892254,
+          "lng" : -64.2749704
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3878764197085,
+            "lng" : -64.27362141970849
+          },
+          "southwest" : {
+            "lat" : -31.3905743802915,
+            "lng" : -64.2763193802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "23a8778136981a0b6858d22d1463ea036826dce8",
+      "name" : "R&M Distribuidora Quesos y Fiabres",
+      "photos" : [
+        {
+          "height" : 2560,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108920056738412190872/photos\"\u003eLuis Ignacio Ceppi\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAG-GilHN2EjaaY6tTIo7B7g0rsWn0SeCXzj_5M9BfwngV8_hImNKSJzDW6EOb1q0oy2SebyIAOCMKeMNUyL24w0z5-XVTNiS92HCDc221mPkKvM52rYOz2_DjO48KuwUAzhtCipf4WljJ_SyApDG-Rl3vVoMOwsXcTMFJkgqFl-2EhCbdCs4Sqdij6-JAjEpu1MvGhTddjBjAHOrdyS7nVLm_xxG2KQKVw",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJHwTPhh2fMpQRkQFP2bbv8GI",
+      "rating" : 4,
+      "reference" : "CmRRAAAAD8JEqbGFA-ZAUG7l642_1y4XUedNmv2l_lA-I8emrNcuaU564Co2AkwZnP4UV6N8LrkGJKwqbW8AMXK48EAWJXDpfK5ceptQzPJDM-bnees7FaTwhv_5vu2MJdD6xF3LEhDHR-4N54q6Sa2XmBdkddTwGhTaOG2RWJRKTGWuDZ_UZvd2zbzSYA",
+      "scope" : "GOOGLE",
+      "types" : [ "liquor_store", "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "Esteban Pagliere 7012 Local 13, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3893267,
+          "lng" : -64.2751124
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3879981197085,
+            "lng" : -64.27378211970849
+          },
+          "southwest" : {
+            "lat" : -31.3906960802915,
+            "lng" : -64.27648008029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "51d78f737293db6013a9f95925e6f4f0bc71efaa",
+      "name" : "Andrea Franceschini Tortas Y Helados",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2560,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108920056738412190872/photos\"\u003eLuis Ignacio Ceppi\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAPYI4zhLQhH9fm-1gHOhstUFpqfbbG_tjds-v2h6jziT5QFNJGmx7qZZ9C_Q67v2rD0I3_9ixQueO8WCrTJPqiQWB015DMamIUae8MVLcfTpxWNR4bbvdlEzd7AMO7p54johi1RvQokxL6r38S0YZS2SPahgd63qGHxQbo3sEQGNEhB8eM9rJBVYwaF4V4rvnEnuGhTspEIO-orzOnoYMcrlYsZGArgvLw",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJ-crgfx2fMpQR2qLIlPQGqCY",
+      "rating" : 5,
+      "reference" : "CmRRAAAAD5Fzb64GGcF5MuuYN9qTKL4fUsvwDoAVDz_8XdPh-5sxRAauS-BiU1x8FxS6m1uXJSr-KL5Nub0djOHpgKR_T1MiBA8P-LfnWghfftxfYfe8zelRBtu-ANo9vTVnmYVsEhAHljNywYed3ihv_ZpYjTxPGhQPxT3O0Rl0FLMCVPgRddeG1cU1BQ",
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "Esteban Pagliere 71185, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.38999930000001,
+          "lng" : -64.2742501
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.38865031970851,
+            "lng" : -64.27290111970851
+          },
+          "southwest" : {
+            "lat" : -31.39134828029151,
+            "lng" : -64.27559908029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "2a24f7151402e2847632cf696135bf471f3017a9",
+      "name" : "Coccinella",
+      "place_id" : "ChIJOdqakB2fMpQRphEQnCzHgBk",
+      "reference" : "CmRRAAAAe7VCthpQe7VGkawCHzlYHgZiR-LRP91Wozblqd-FKXBRGb-QqiymUTp8lwSbG4ivX7KHOyJkPEZA9VRZnsfCXwg2oNsLAv9QbrvekxqlHv9gWocSPeBJMkXIc32cNggdEhCL510XVRU5LxOk2aeQPBC8GhQsiB1RSoc_FHoBzJISL_Vc68E9tg",
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "Francisco Sebastiani 6996, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3879877,
+          "lng" : -64.274404
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3866387197085,
+            "lng" : -64.27305501970851
+          },
+          "southwest" : {
+            "lat" : -31.3893366802915,
+            "lng" : -64.27575298029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "c26ea733d5840721ace3f7ae613a7adc3869c45a",
+      "name" : "Dakota's",
+      "photos" : [
+        {
+          "height" : 3008,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103303674317419710295/photos\"\u003eSandra Oviedo\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAL_C4nQqB5C2Z2iw5bgGF5oLm2r8W5LCFqpBqqOGOjkZwBoHsyL_ic3oyEw2X7geTMyqmuqvPR6AMO7i8UQytZtYikBoVJxD0R2CPfroB0CJ8suGl129t4C_zcYGjMg9GU3gdu9CyVg_gsQuCc51mf5RUChWAOKi5EuhIa-q47b9EhBNCRzXG-RAUc_mHcYAl8EoGhQ54i6gOokWkoWEF443sU97u7MwJQ",
+          "width" : 5344
+        }
+      ],
+      "place_id" : "ChIJw1OzZ-KeMpQR1u9oEcfO0RU",
+      "rating" : 5,
+      "reference" : "CmRRAAAA_ksVA7CRkEKqIHJqCFaiPdXImB95G_beZqUpIzY-eqV38JCYONANs49QJOBuYtrYaDs7UZgpcMX0Z1ULyvV-iaakQlK8Oapm24qIwz8BeXIBZGRBMYdbxDUsjChkzputEhC_ErBYckHRWVc30VuV_8rDGhSETO30twC7Ww3ld2rr9BGySq5Vyw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_takeaway",
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Av. Ardizone 7019, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.38795200000001,
+          "lng" : -64.274451
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.38660301970851,
+            "lng" : -64.2731020197085
+          },
+          "southwest" : {
+            "lat" : -31.38930098029151,
+            "lng" : -64.27579998029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ed6cd59f3688b8e462eb712dd532a2bf2460c9c7",
+      "name" : "Los Girasoles",
+      "photos" : [
+        {
+          "height" : 1488,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111621890897229449687/photos\"\u003eFabian Monter\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAPN_agVwv4uv4ZuMfEEo_kM92k9-DqhqHspuvTUZ-mhRIrWDNG1-vkz_vZdZ11IED8OXKvVKWTkfb2_TY_UFzx4BO9w-ScTDUqhdjOQLsyGemylcy9o8sNfrN6umU3K3G8VgfFjYSYr8a9peOWJWd4FSFqhvkr7Zpmt272Vpqp9tEhA6mnyLcQKTUmXb4pRIFFhRGhQcPjmfT4BlbuxkX8-l56Nuk_nPgQ",
+          "width" : 1984
+        }
+      ],
+      "place_id" : "ChIJs3KmZ-KeMpQRE9xQ8O5p-zg",
+      "reference" : "CmRRAAAAYlMGdrAJ0QIID3B-t3MRz-R-zQBwNyvOdfn_hrBNG--cW5s6aZQBBx6qJNjXNbqb2WL3wcqcsRhXpFmw14_QP1VvM8wnVI5NAdQJ4HBAVQ1nHzcgnTlsLu3GMCWya7ufEhCy3s5Ox25lI9fPsywnGKWRGhRV1lqQTn9udDBclhxH8udP3xr1cw",
+      "scope" : "GOOGLE",
+      "types" : [ "liquor_store", "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "Av. Ardizone 7019, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3874417,
+          "lng" : -64.2749869
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3860927197085,
+            "lng" : -64.27363791970849
+          },
+          "southwest" : {
+            "lat" : -31.3887906802915,
+            "lng" : -64.2763358802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "e525dd09d2ce66f81e3187ef27633528a7e312b6",
+      "name" : "Panaderia Angie",
+      "photos" : [
+        {
+          "height" : 2340,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109833012750210584934/photos\"\u003eolga esther dominguez\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAA64p7_lv5ml2RpWSCkXdcOmZAiB7W4vHIu5NX2-pCkNcTKWZovoMny1xT6SBTs_GnZ37YyseHX_BTVgLj0UT1FyBCyXl_lJ3xkvAiZbuQQ5H1Op_WkLiIfZPw_-wGJnX75u5u1dnUn_Qzq82oKR5aIohtH0YPzhv6idwkTPvdfJEhCIlPUpdKdm8NocBuaGC-vOGhQhNH_UJuswaBaA_GJtA_IFKRN10A",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJ8xR9WOKeMpQRSYiHyhzSN1s",
+      "reference" : "CmRRAAAAv69cLIs2DcQq1G2j-tnzeg8gLPDoNQg7Nt0VMTE_ew0Hmun0vJh5KsPGYh6CKtTeJ0JXrBuczTXRMxMnLFrZhUa3jWTLN1QCKI88REIrJNr3fLAKFYJ8siM2B3FgKOgMEhAVwc7n4IqdTLOPEOwyPS-aGhR0f9qk4Hk7EJL_TsdPvgRNW-yK-g",
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "Av Ardizone 7051, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3880278,
+          "lng" : -64.27163689999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3866788197085,
+            "lng" : -64.27028791970849
+          },
+          "southwest" : {
+            "lat" : -31.3893767802915,
+            "lng" : -64.2729858802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "82dadbf81de762d11bd7bf2611d33a0c4a639af2",
+      "name" : "Verduleria Pedro",
+      "place_id" : "ChIJK_Aw-uGeMpQRf8POv0HIF7s",
+      "reference" : "CmRSAAAAQ5QSEpcyfGSZWhbstzo5SCDTShJ_GXUlc6N8ngQsXbMbE9k3RcqbPsRJEi7n710MA1D3rICxH95nA0alU7gHqguxvEGOFi1Pg0ZTSN4Ek9flEAQS5MBzyt1B0NRNhMfYEhBYQLGeJHzldglTtYNaOQEyGhSdRMf3EyZbEdfmAS4TyFBr1t1Tmw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Av Ardizone 6919, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3879698,
+          "lng" : -64.27152599999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3866208197085,
+            "lng" : -64.2701770197085
+          },
+          "southwest" : {
+            "lat" : -31.3893187802915,
+            "lng" : -64.2728749802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "1fd1745e4f0913d62fd3a39baaefdc6af1b68d33",
+      "name" : "Carnicería CG",
+      "place_id" : "ChIJleZe-uGeMpQRj92LsVAzDm4",
+      "reference" : "CmRRAAAACg54kALsFLw1tdpKxEy7mGS_LaRmVh9dFra03N3ksKSCCWgfag-tcT26gCo6EI7PazZG3NBzwXA8xTLHji-kgBD_tISEcbSoBV_qrlUQFmwtQhkpK1awuLKvoDB9X2zFEhAlpLFlQUuK-bPJbYmk4IlVGhRbi3v1lGG8qQaQQAhsfZP4WGNUaQ",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "José Fagnano 205, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3869392,
+          "lng" : -64.27267979999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3855902197085,
+            "lng" : -64.27133081970848
+          },
+          "southwest" : {
+            "lat" : -31.3882881802915,
+            "lng" : -64.27402878029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "3b99c06a946be4911146b3404e497f93eef63ed4",
+      "name" : "Green Day",
+      "place_id" : "ChIJF_YcJeKeMpQRKTfDXe7OPqI",
+      "reference" : "CmRSAAAATCschW2rFhpP5q2rMvSvvaIM781FN-rL6UZQGuzdfF5uyat-JufP-HEKoXqShayvd180B7iz1Z3aTAqC_LeWJ5t5ScGlUZnJhs_fTj5mhiy5YnRidgb2VHdH-N5vewzOEhBshAuwUCnKkHGHdPiY6LftGhSMf5Xu7QmbPSv2pXCVSPEjKh8Svw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "grocery_or_supermarket",
+        "health",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "José Vespignani 270, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.387347,
+          "lng" : -64.2764348
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3859570697085,
+            "lng" : -64.2751374197085
+          },
+          "southwest" : {
+            "lat" : -31.3886550302915,
+            "lng" : -64.27783538029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "15bc4d2437fb529797d25ac80a779b31f1889a65",
+      "name" : "Carnicería German",
+      "place_id" : "ChIJLSJq5-KeMpQR6uzy7SfMuaA",
+      "reference" : "CmRSAAAAlv9t_yKEvJgw2kga32v0bn3nDsJYFUZeEgZx9NbwbC62uAQeFCYL5-rdAegnPtN59V1umU6c3GnnebEMT6PCwpcFx8co9c0M4k3z9UKEDRTZlWoJMxjXdXy-tgd98RrOEhAEMZ7bBjIfvZs0x1fx5ag0GhSeaZb9Ehn_en7tcPdVpiXD9N7wrw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Nicolás Mascardi 136, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3865821,
+          "lng" : -64.2755949
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3852331197085,
+            "lng" : -64.27424591970849
+          },
+          "southwest" : {
+            "lat" : -31.3879310802915,
+            "lng" : -64.2769438802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e2de42de0bf4f66750d0fb923800d04f52cd097e",
+      "name" : "El Shopping de La Verdura",
+      "opening_hours" : {
+        "open_now" : false,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110500795716695180371/photos\"\u003eGuadalupe Adrien Ramirez\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAAbENQEncVOU-fyHPjia5VSXHXW_3zIpSQANTfemW1KnH8mMSUMl2nsLeiR_98zQcyONehJT_kTxUr1Kpa5zpssfXqxupw_3ONkvvpmy_PFcyPqYdAIpJUW2MWYoVgqW7tbb7RC2W3jJTz7rZ7PMHAtnZF2AW67APGtqDG0qqXvEEhBAa0mFBQyDYEeTOW2R1u1eGhSU-X0J-HsImQ34N0p0OGYP0xcVlw",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJ0TD-AuOeMpQRLRFaN0Ev_R4",
+      "rating" : 4,
+      "reference" : "CmRRAAAAFxmiIGFEu_sJurUgPHMR4HdCmR7MW_-iP4dMM-LMClXPs-AXJHX_3DWBKZkCuztzOw0Nj8wsZrOlHynM--fY_8_rtIlP1p_RB0cxKKIJk99owczvak1T4AJM182rVrtLEhCmD1SgpPaZD4h91pFfaqDgGhSfOeOW5V4XveynBUGVnXV6bpTlkA",
+      "scope" : "GOOGLE",
+      "types" : [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Av. Ardizone 7094, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3873047,
+          "lng" : -64.2767423
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3859557197085,
+            "lng" : -64.27539331970848
+          },
+          "southwest" : {
+            "lat" : -31.3886536802915,
+            "lng" : -64.27809128029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "8764dddd0f99d71af6037756d648d79b4cce5365",
+      "name" : "Abastecimiento Crosetti",
+      "place_id" : "ChIJQ6Kc3uKeMpQRvpymo6BsRf0",
+      "reference" : "CmRSAAAAgp9D_327zFFKzSumjHtF-N7v46glu8MTyCDH0qOcVjni6XUBJsBQHyS9Kh3LTTM6JqTgIGiCWXpGhreYOse4V9jSD34IxezC4-n_xejcxTXQQAiorxp0Ta_w8X6JhMrrEhBzLVTopCfjthufYMMWm6rxGhQNmOoYeC3qvhH866bav2xkGyygJA",
+      "scope" : "GOOGLE",
+      "types" : [ "liquor_store", "food", "store", "point_of_interest", "establishment" ],
+      "vicinity" : "Nicolás Mascardi 129, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.38702809999999,
+          "lng" : -64.2764536
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3856791197085,
+            "lng" : -64.27510461970849
+          },
+          "southwest" : {
+            "lat" : -31.38837708029149,
+            "lng" : -64.27780258029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "473ac55e4aab722be4d33b2230f19230cde7fc6f",
+      "name" : "Maxi Kiosko Córdoba",
+      "place_id" : "ChIJI8Bt4OKeMpQR6a6cC9QVxrE",
+      "rating" : 5,
+      "reference" : "CmRSAAAAyVGcCXSiQV8fqJrfG6qDfVASjuH8Di7urfvTVXnGusUHeEptu6GH8CNGoFTqRgRtde90sbcWV_sNuCenieecq3KtcLYjQYz0R5FY7P3uhBu_Hm79HW2u9bycai6N2IfMEhAEI-HcBK3S9IbJeXEyzOrIGhTFYmYNaRLdmysw0hzlO7Ka48Rjpw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "convenience_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Nicolás Mascardi 159, Don Bosco, Córdoba"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : -31.3864551,
+          "lng" : -64.27553109999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3850853697085,
+            "lng" : -64.27420706970848
+          },
+          "southwest" : {
+            "lat" : -31.38778333029149,
+            "lng" : -64.2769050302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e0b25591c882b71573b0d463bb0c98c2b7d7fd28",
+      "name" : "La Carnicería De Lucho",
+      "photos" : [
+        {
+          "height" : 2560,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118191173303126560723/photos\"\u003eYanina Acuña\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAAqVxo6Z5q6_gQ7STge3KVhRejGIscxyAzP6kJZcTgNivDu8RQI_27LLwFuFxaKCWIt7a9RkAtgO2ystPQUz7Q8Ta7rlKwQ0GmQ9FeNe6Ep7Adt17CP9CYdk0c_dnxyyygGbYVPgoccNxDkVMc57rz7c-JL1r6EPpSf4_3iW63tFEhALyIBLnbrab3L0uzSSdK4CGhQ6HMtoQc63gv_clIefX0uyh_TZNg",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJMZaQA-OeMpQRkYUQz15S6_A",
+      "rating" : 4.3,
+      "reference" : "CmRSAAAAj332M82xG4BTjftqrdCdwXlRrxpHnrsM9npZ6PM-Wizgijk8LXBQmKIPuvLsU2hlEp-EK0bOKpWGDN3Gn82mvC0G43SwH9HHkRdyuL4Jae6J7Wu8Qkg9vMvza2IAl-NyEhDYaTQ2Rx4FLU9dqiRL3Aq6GhRyAZKAI8mHpoWYzO0JYcdxteWgzw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity" : "Nicolás Mascardi 210, Córdoba"
+    }
+  ],
+  "status" : "OK"
+}

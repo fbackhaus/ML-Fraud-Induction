@@ -1,0 +1,70 @@
+{
+  "results" : [
+    {
+      "address_components" : [
+        {
+          "long_name" : "6971",
+          "short_name" : "6971",
+          "types" : [ "street_number" ]
+        },
+        {
+          "long_name" : "Evasio Garrone",
+          "short_name" : "Evasio Garrone",
+          "types" : [ "route" ]
+        },
+        {
+          "long_name" : "Córdoba",
+          "short_name" : "Córdoba",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "Capital",
+          "short_name" : "Capital",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "Córdoba",
+          "short_name" : "Córdoba",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Argentina",
+          "short_name" : "AR",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "Evasio Garrone 6971, Córdoba, Argentina",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -31.3890947,
+            "lng" : -64.27408939999999
+          },
+          "southwest" : {
+            "lat" : -31.3891093,
+            "lng" : -64.27409710000001
+          }
+        },
+        "location" : {
+          "lat" : -31.3891093,
+          "lng" : -64.27409710000001
+        },
+        "location_type" : "RANGE_INTERPOLATED",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -31.3877530197085,
+            "lng" : -64.2727442697085
+          },
+          "southwest" : {
+            "lat" : -31.3904509802915,
+            "lng" : -64.27544223029152
+          }
+        }
+      },
+      "partial_match" : true,
+      "place_id" : "EihFdmFzaW8gR2Fycm9uZSA2OTcxLCBDw7NyZG9iYSwgQXJnZW50aW5h",
+      "types" : [ "street_address" ]
+    }
+  ],
+  "status" : "OK"
+}
