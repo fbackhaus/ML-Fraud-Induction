@@ -10,12 +10,22 @@ class PlaceController {
 
     def placeService
 
+    def redisService
+
     def getPlacesNear() {
 
-        def address = placeService.getPlacesNear(params.name, params.coordenadas, params.radio,params.tipos)
-        JSON.use('deep') {
-            render address as JSON
+        def apiResponse = redisService.getApiResponse(params.coordenadas, params.radio, params.tipos)
+        if(apiResponse == null) {
+            def address = placeService.getPlacesNear(params.name, params.coordenadas, params.radio, params.tipos)
+            JSON.use('deep') {
+                redisService.setAddress(address)
+                render address as JSON
+            }
         }
+        else {
+            render(text:apiResponse,contentType: "application/json")
+        }
+
 
     }
 
@@ -32,7 +42,6 @@ class PlaceController {
         def direccion = placeService.getCoordenadas(dir)
         def radio = json.radio
         def tipos = json.tipos
-        Address address = new Address(name:direccion[1], coordenadas: direccion[0], radio:  radio,tipos:  tipos)
         redirect(controller: "Place",action: "getPlacesNear", params: [name:direccion[1],coordenadas: direccion[0],radio:radio,tipos:tipos])
     }
 }

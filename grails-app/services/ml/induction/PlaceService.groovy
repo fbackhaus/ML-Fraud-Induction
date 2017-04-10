@@ -1,7 +1,9 @@
 package ml.induction
 
+import grails.converters.deep.JSON
 import grails.transaction.Transactional
 import groovy.json.JsonSlurper
+import org.codehaus.groovy.grails.web.json.JSONObject
 
 @Transactional
 class PlaceService {
@@ -11,17 +13,18 @@ class PlaceService {
     private final def urlApiGeo = 'https://maps.googleapis.com/maps/api/geocode/json?'
     private final def key = 'AIzaSyDZAlOKVMj_BeZWwaXo2_yDuzdV1AtfrGU'
 
+
     def serviceMethod() {
 
     }
 
 
     def getPlacesNear(name,coordenadas,radius,types) {
-        JsonSlurper json = new JsonSlurper()
-        def places = json.parse(conectar(urlApiNear+'location='+coordenadas+'&radius='+radius+'&types='+types+'&language=es'+'&key='+key, "GET").getInputStream())
+            JsonSlurper json = new JsonSlurper()
+            def places = json.parse(conectar(urlApiNear+'location='+coordenadas+'&radius='+radius+'&types='+types+'&language=es'+'&key='+key, "GET").getInputStream())
+
         def lugares = []
-        places.results.each { p ->
-            if(p.rating == null) {
+        places.results.each { p -> if (p.rating == null) {
                 p.rating = 0
             }
             Place place = new Place(name:p.name, placeId:p.place_id, rating:p.rating, types:p.types, address:p.vicinity)
@@ -64,9 +67,4 @@ class PlaceService {
         return [coordenadas,name]
     }
 
-    def savePlaces(places) {
-        places.each { p ->
-
-        }
-    }
 }
