@@ -16,7 +16,6 @@ class MockRESTPlacesClient {
     }
 
     def getCoordenadas(direccion) {
-
         return getMock(
                         "/Users/fbackhaus/IdeaProjects/ML-Fraud-Induction/ML-Fraud-Induction/" +
                                "/grails-app/assets/mocks/coordinates.json").results

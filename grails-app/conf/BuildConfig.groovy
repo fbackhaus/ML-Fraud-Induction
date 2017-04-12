@@ -44,6 +44,11 @@ grails.project.dependency.resolution = {
         //mavenRepo "http://repository.codehaus.org"
         //mavenRepo "http://download.java.net/maven/2/"
         //mavenRepo "http://repository.jboss.com/maven2/"
+        mavenRepo "http://git.ml.com:8081/nexus/content/repositories/MLGrailsPlugins"
+        mavenRepo "http://git.ml.com:8081/nexus/content/groups/Arquitectura"
+        mavenRepo "http://git.ml.com:8081/nexus/content/groups/ML"
+        mavenRepo "http://git.ml.com:8081/nexus/content/groups/public"
+
     }
 
     dependencies {
@@ -64,10 +69,10 @@ grails.project.dependency.resolution = {
         // asset-pipeline 2.0+ requires Java 7, use version 1.9.x with Java 6
 
         // plugins needed at runtime but not for compilation
-//        runtime ":hibernate4:4.3.10" // or ":hibernate:3.6.10.18"
+        runtime ":hibernate4:4.3.10" // or ":hibernate:3.6.10.18"
         compile ":mongodb:3.0.1"
         compile "org.grails.plugins:rest-client-builder:2.1.1"
-
+        compile ":mlapi:2.4.40"
 
 
         // Uncomment these to enable additional asset-pipeline capabilities

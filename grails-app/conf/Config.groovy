@@ -117,8 +117,17 @@ log4j.main = {
            'net.sf.ehcache.hibernate'
 }
 
-google {
-    geo {
+
+environments {
+    production {
+        baseURL = 'https://maps.googleapis.com/maps/api/'
+        key = 'AIzaSyDZAlOKVMj_BeZWwaXo2_yDuzdV1AtfrGU'
+    }
+    development {
+        baseURL = 'https://maps.googleapis.com/maps/api/'
+        key = 'AIzaSyDZAlOKVMj_BeZWwaXo2_yDuzdV1AtfrGU'
+    }
+    test {
         baseURL = 'https://maps.googleapis.com/maps/api/'
         key = 'AIzaSyDZAlOKVMj_BeZWwaXo2_yDuzdV1AtfrGU'
     }

@@ -1,12 +1,10 @@
 package ml.induction
 
 import grails.transaction.Transactional
-
-@Transactional
 class PlaceService {
     def placesClient
 
-
+    @Transactional
     def getPlacesNear(name,coordenadas,radius,types) {
         def places = placesClient.getPlacesNear(name,coordenadas,radius,types)
         def lugares = []

@@ -9,6 +9,7 @@ beans = {
         bean.scope = 'singleton'
     }
 
+
     Environment.executeForCurrentEnvironment {
         production {
             placesClient(RESTPlacesClient) { bean ->
